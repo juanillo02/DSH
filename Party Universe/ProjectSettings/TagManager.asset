@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dado
+  - casilla0
+  - casilla1
+  - casilla2
+  - casilla3
+  - casilla4
+  - casilla5
+  - casilla6
+  - casilla7
+  - casilla8
+  - casilla9
+  - Ficha
+  - Borde
+  - Cube
+  - puntuacion
+  - inicio
+  - jugador4
+  - skull
+  - star
+  - controller
+  - cohete
+  - jugador1
+  - jugador2
+  - jugador3
+  - Pared
+  - Alien
+  - Cohete
+  - "Se\xF1uelo"
+  - Suelo
+  - TrackingObject
+  - Asteroide
+  - Planeta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
